@@ -20,4 +20,4 @@
 
 🐦 My [Twitter](https://twitter.com/aurelien_lair) account
 
-<img src="./images/quality-level.jpeg" alt="quality-level" style="width:80%;"/>
+<img src="./images/quality-level.jpeg" alt="quality-level" style="width:100%;"/>
