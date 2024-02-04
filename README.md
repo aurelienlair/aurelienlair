@@ -1,6 +1,6 @@
 ### Hi there, my name is Aurélien 👋
 
-😊 I’m quality assurance tech lead with over 16 years of experience working in companies to ensure the highest quality outcomes possible. Technologies enthusiast and keen advocate of [Agile](https://en.wikipedia.org/wiki/Agile_software_development) methodologies and [DevOps](https://en.wikipedia.org/wiki/DevOps), I always try wherever I work to foster a mindset of continuous process improvement and ensure that end users are satisfied by putting a great the attention to the product quality.
+😊 As a quality assurance manager with more than 16 years of experience, I've dedicated my career to ensuring the delivery of the highest quality outcomes in various companies. I am an avid technology enthusiast and a strong proponent of [Agile](https://en.wikipedia.org/wiki/Agile_software_development) methodologies and [DevOps](https://en.wikipedia.org/wiki/DevOps). In every work setting, I actively promote a mindset of continuous process improvement, emphasizing the importance of product quality to ensure the utmost satisfaction of end users.
 
 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-lair-844385104)
 
