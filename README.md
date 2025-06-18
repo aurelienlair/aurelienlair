@@ -4,20 +4,21 @@
 
 👨🏻‍💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/aur%C3%A9lien-lair-844385104)
 
-🗃 My [Github](https://github.com/aurelienlair?tab=repositories) repositories
+🗃 My [GitHub](https://github.com/aurelienlair?tab=repositories) repositories  
+🗃 My [GitLab](https://gitlab.com/aurelienlair) repositories  
+🗞 My [technical articles](https://medium.com/@aurelien-lair)
 
-🗃 My [Gitlab](https://gitlab.com/aurelienlair) repositories
+🎓 My certifications  
+- [ISTQB Certified Tester Foundation Level](https://scr.istqb.org/?name=AURELIEN+LAIR&number=CTIT-21-17023)  
+- Certified [Kanban Management Professional (KMP1)](https://kanban.university/kanban-development-path)  
+- Certified [Kanban Management Professional (KMP2)](https://kanban.university/kanban-development-path)
 
-🗞 My [technical](https://medium.com/@aurelien-lair) articles
+🌐 Community & Profiles  
+- 🧪 Co-organizer of the [Ministry of Testing Milan](https://www.ministryoftesting.com/events/meetups/milan-meetup-160625)  
+- 🔁 Co-organizer of the [Continuous Testing Meetup](https://www.continuoustestingmeetup.com/)  
+- 📇 My [Ministry of Testing profile](https://www.ministryoftesting.com/p/aurelienl)
 
-🎓 My certifications
+🐦 My [Twitter](https://twitter.com/aurelien_lair) account  
+🌌 My [Bluesky](https://bsky.app/profile/aurelienlair.bsky.social) profile  
 
-- [ISTQB Certified Tester Foundation Level](https://scr.istqb.org/?name=AURELIEN+LAIR&number=CTIT-21-17023)
-- Certified [Kanban Management Professional](https://kanban.university/kanban-development-path) (KMP1)
-- Certified [Kanban Management Professional](https://kanban.university/kanban-development-path) (KMP2)
-
-🌐 My [continuous testing community](https://www.continuoustestingmeetup.com)
-
-🐦 My [Twitter](https://twitter.com/aurelien_lair) account
-
-<img src="./images/quality-level.jpeg" alt="quality-level" style="width:100%;"/>
+<img src="./images/quality-level.jpeg" alt="quality-level" style="width:100%;" />
