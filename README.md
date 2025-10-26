@@ -1,11 +1,11 @@
 ### Hi there, I'm Aurélien 👋
 
 🚀 Experienced QA Manager and technologist with over 15 years across software engineering, quality leadership and test automation.  
-I combine deep technical expertise with a strong product mindset, using Agile, DevOps and telemetry-driven approaches to accelerate delivery while improving confidence in releases.
+I combine *deep technical expertise* with a *strong product mindset*, using *Agile*, *DevOps* and *telemetry-driven approaches* to accelerate delivery while improving confidence in releases.
 
 Currently managing a distributed QA team at TUI/Musement, I focus on automated testing strategies for cloud-native platforms using Python (pytest, hypothesis, schemathesis), GitLab CI/CD, Docker and AWS. I drive early testing adoption, scalable automation and production-driven insights through observability tools like Datadog and New Relic.
 
-Key achievements include building reusable Python libraries, preventing critical regressions through advanced API validation and aligning test priorities with business risk.  My leadership style emphasizes enablement, transparency and developer experience empowering teams to deliver quality with confidence.
+Key achievements include building reusable Python libraries, preventing critical regressions through advanced API validation and aligning test priorities with business risk.  My leadership style emphasizes enablement, transparency, and developer experience, empowering teams.
 
 Co-organiser of the [Continuous Testing Meetup](https://www.continuoustestingmeetup.com/) and [Ministry of Testing Milan](https://www.ministryoftesting.com/events/meetups/milan-meetup-160625).
 
