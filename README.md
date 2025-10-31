@@ -38,7 +38,7 @@ Co-organiser of the [Continuous Testing Meetup](https://www.continuoustestingmee
 ### 🧭 Books that shape my leadership & quality mindset
 **Engineering & architecture**  
 - *Design Patterns: Elements of Reusable Object-Oriented Software* – Erich Gamma, Richard Helm (Gang of Four)  
-- *Clean Code* – Robert C. Martin  
+- *Clean Code* - Robert C. Martin  
 - *Refactoring: Improving the Design of Existing Code* – Martin Fowler
 - *Accelerate: The Science of Lean Software and DevOps* – Nicole Forsgren, Jez Humble, Gene Kim  
 
@@ -47,7 +47,8 @@ Co-organiser of the [Continuous Testing Meetup](https://www.continuoustestingmee
 - *The Manager's Path* – Camille Fournier  
 - *Leading Quality* – Ronald Cummings-John, Owais Peer  
 - *The Five Dysfunctions of a Team* – Patrick Lencioni  
-- *The Culture Map: Breaking Through the Invisible Boundaries of Global Business* – Erin Meyer  
+- *The Culture Map: Breaking Through the Invisible Boundaries of Global Business* – Erin Meyer
+- *Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones* – James Clear
 
 ---
 
